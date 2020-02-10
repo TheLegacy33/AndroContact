@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroContact</string>
+    <string name="title_activity_form">Fiche personne</string>
+    <string name="title_activity_liste">Liste personnes</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="lblcivilite">Civilité :</string>
+    <string name="lblnom">Nom :</string>
+    <string name="lblprenom">Prénom :</string>
+    <string name="lblemail">Email :</string>
+    <string name="lblbtsave">Enregistrer</string>
+    <string name="lblbtcancel">Annuler</string>
+    <string name="del_question">Confirmation de suppression</string>
+    <string name="del_message">Voulez-vous supprimer cette personne ?</string>
+    <string name="bt_ok">Oui</string>
+    <string name="bt_no">Non</string>
+</resources>

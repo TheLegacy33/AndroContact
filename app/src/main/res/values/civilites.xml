@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="civilites">
+        <item>Sélectionner une civilité</item>
+        <item>Mme.</item>
+        <item>Mr.</item>
+    </string-array>
+</resources>

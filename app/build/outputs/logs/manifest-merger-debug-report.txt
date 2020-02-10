@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/michel/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:11:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/michel/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/michel/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:17:9-40
+activity#net.devatom.androcontact.MainActivity
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:18:9-33:20
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:host:androcontact.devatom.net+data:scheme:http
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:19:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:22:27-74
+action#android.intent.action.VIEW
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:26:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:27:27-75
+data
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:29:17-31:45
+	android:host
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:30:21-60
+	android:scheme
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:31:21-42
+activity#net.devatom.androcontact.ListeActivity
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:34:9-41:20
+	android:parentActivityName
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:37:13-55
+	android:label
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:35:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:38:13-40:73
+	android:value
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:40:17-70
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:39:17-63
+activity#net.devatom.androcontact.FormActivity
+ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:42:9-49:20
+	android:parentActivityName
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:45:13-55
+	android:label
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml:43:13-41
+uses-sdk
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/michel/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/michel/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		ADDED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michel/AndroidStudioProjects/AndroContact/app/src/main/AndroidManifest.xml
